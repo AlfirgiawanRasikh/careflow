@@ -30,3 +30,21 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 *.sublime-project
 /tests/tests/
 /tests/results/
+
+# XAMPP / local files
+xampp/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Environment / local config
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.temp
